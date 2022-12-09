@@ -6,3 +6,6 @@
 
 ### requestIp
 * 请求ip
+
+### getfolderFile
+* 统计文件数量
